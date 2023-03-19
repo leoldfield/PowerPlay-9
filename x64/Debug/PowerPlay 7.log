@@ -1,0 +1,6 @@
+﻿  PowerPlay7.cpp
+C:\Users\Ray\source\repos\PowerPlay 7\PowerPlay7.cpp(106,33): error C2102: '&' requires l-value
+C:\Users\Ray\source\repos\PowerPlay 7\PowerPlay7.cpp(106,54): error C2102: '&' requires l-value
+  Monster.cpp
+  Player.cpp
+  Generating Code...
